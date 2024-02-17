@@ -1,1 +1,1 @@
-# OpenCV
+OpenCV, short for Open Source Computer Vision Library, is like a toolbox for computers that helps them understand and interpret images and videos. It provides a bunch of tools and functions that allow you to do things like detect objects, recognize faces, track movements, and lots more. Basically, it's a powerful set of tools that lets computers "see" and understand the visual world around them.
